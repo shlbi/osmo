@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">OSMO Research</title><desc id="desc">Pharmacokinetics, with the receipts. A stylized concentration curve beside the OSMO wordmark.</desc>
+<rect width="1200" height="320" rx="20" fill="#101b25"/>
+<path d="M760 248H1135M775 248V65" stroke="#43505c" stroke-width="2" fill="none"/>
+<path d="M775 240C812 240 820 100 849 90S900 168 945 195S1040 229 1130 238" stroke="#69d6bd" stroke-width="5" fill="none"/>
+<path d="M775 240C813 240 821 126 851 117S901 186 946 209S1040 239 1130 244" stroke="#8caaf0" stroke-width="2" fill="none" stroke-dasharray="7 7"/>
+<g fill="#69d6bd"><circle cx="849" cy="90" r="5"/><circle cx="945" cy="195" r="5"/><circle cx="1077" cy="233" r="5"/></g>
+<text x="66" y="126" fill="#f2f6f8" font-family="sans-serif" font-size="78" font-weight="700" letter-spacing="8">OSMO</text>
+<text x="70" y="174" fill="#69d6bd" font-family="sans-serif" font-size="19" letter-spacing="4">RESEARCH</text>
+<text x="70" y="231" fill="#d3dde6" font-family="sans-serif" font-size="24">Pharmacokinetics, with the receipts.</text>
+<text x="70" y="269" fill="#91a1b0" font-family="sans-serif" font-size="15">EXPLICIT UNITS / CHEMICAL SPLITS / HONEST RESULTS</text>
+<text x="985" y="279" fill="#91a1b0" font-family="sans-serif" font-size="13">illustrative curves</text>
+</svg>
